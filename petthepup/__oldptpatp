@@ -1,0 +1,70 @@
+{
+  "title": "Pet the Pup at the Party - 10 Pups",
+  "attempt_count": 1346,
+  "world_record": "4:03.241654",
+  "start_delay": "1.000000",
+  "splits": [
+    {
+      "title": "1",
+      "time": "15.510580",
+      "best_time": "6.946894",
+      "best_segment": "6.946894"
+    },
+    {
+      "title": "2",
+      "time": "31.664858",
+      "best_time": "26.299561",
+      "best_segment": "11.190598"
+    },
+    {
+      "title": "3",
+      "time": "48.518196",
+      "best_time": "40.950161",
+      "best_segment": "11.588338"
+    },
+    {
+      "title": "4",
+      "time": "1:15.165194",
+      "best_time": "1:07.547169",
+      "best_segment": "22.466000"
+    },
+    {
+      "title": "5",
+      "time": "1:49.101846",
+      "best_time": "1:37.782576",
+      "best_segment": "22.679000"
+    },
+    {
+      "title": "6",
+      "time": "2:19.750465",
+      "best_time": "2:03.958987",
+      "best_segment": "22.998000"
+    },
+    {
+      "title": "7",
+      "time": "2:45.745304",
+      "best_time": "2:37.882000",
+      "best_segment": "22.744000"
+    },
+    {
+      "title": "8",
+      "time": "3:12.231587",
+      "best_time": "3:08.987279",
+      "best_segment": "24.443139"
+    },
+    {
+      "title": "9",
+      "time": "3:37.144321",
+      "best_time": "3:37.144321",
+      "best_segment": "23.544000"
+    },
+    {
+      "title": "10",
+      "time": "4:03.241654",
+      "best_time": "4:03.241654",
+      "best_segment": "21.625000"
+    }
+  ],
+  "width": 392,
+  "height": 856
+}

@@ -1,0 +1,382 @@
+{
+  "title": "Dustforce - Any% All",
+  "attempt_count": 1,
+  "start_delay": "00:00:00",
+  "splits": [
+    {
+      "title": "Beginner Tutorial",
+      "time": "00:00:39.5660000",
+      "best_segment": "00:00:39.5660000"
+    },
+    {
+      "title": "Combat Tutorial",
+      "time": "00:01:08.5660000",
+      "best_segment": "00:00:29.0000000"
+    },
+    {
+      "title": "Advanced Tutorial",
+      "time": "00:01:54.5660000",
+      "best_segment": "00:00:46.0000000"
+    },
+    {
+      "title": "Downhill",
+      "time": "00:02:23.5660000",
+      "best_segment": "00:00:29.0000000"
+    },
+    {
+      "title": "Shaded Grove",
+      "time": "00:02:48.5660000",
+      "best_segment": "00:00:25.0000000"
+    },
+    {
+      "title": "Firefly Forest",
+      "time": "00:03:30.5660000",
+      "best_segment": "00:00:42.0000000"
+    },
+    {
+      "title": "Valley",
+      "time": "00:04:02.5660000",
+      "best_segment": "00:00:32.0000000"
+    },
+    {
+      "title": "Dahlia",
+      "time": "00:04:22.5660000",
+      "best_segment": "00:00:20.0000000"
+    },
+    {
+      "title": "Tunnels",
+      "time": "00:05:03.5660000",
+      "best_segment": "00:00:41.0000000"
+    },
+    {
+      "title": "Ancient Garden",
+      "time": "00:05:32.5660000",
+      "best_segment": "00:00:29.0000000"
+    },
+    {
+      "title": "Night Temple",
+      "time": "00:06:29.5660000",
+      "best_segment": "00:00:57.0000000"
+    },
+    {
+      "title": "Summit",
+      "time": "00:07:10.5660000",
+      "best_segment": "00:00:41.0000000"
+    },
+    {
+      "title": "Ascent",
+      "time": "00:08:06.5660000",
+      "best_segment": "00:00:56.0000000"
+    },
+    {
+      "title": "Grass Cave",
+      "time": "00:08:32.5660000",
+      "best_segment": "00:00:26.0000000"
+    },
+    {
+      "title": "Wild Den",
+      "time": "00:09:08.5660000",
+      "best_segment": "00:00:36.0000000"
+    },
+    {
+      "title": "Ruins",
+      "time": "00:09:51.5660000",
+      "best_segment": "00:00:43.0000000"
+    },
+    {
+      "title": "Overgrown Temple",
+      "time": "00:10:33.5660000",
+      "best_segment": "00:00:42.0000000"
+    },
+    {
+      "title": "Fields",
+      "time": "00:11:03.5660000",
+      "best_segment": "00:00:30.0000000"
+    },
+    {
+      "title": "Dusk Run",
+      "time": "00:12:32.5660000",
+      "best_segment": "00:01:29.0000000"
+    },
+    {
+      "title": "Atrium",
+      "time": "00:12:49.5660000",
+      "best_segment": "00:00:17.0000000"
+    },
+    {
+      "title": "Secret Passage",
+      "time": "00:13:16.5660000",
+      "best_segment": "00:00:27.0000000"
+    },
+    {
+      "title": "Alcoves",
+      "time": "00:13:45.5660000",
+      "best_segment": "00:00:29.0000000"
+    },
+    {
+      "title": "Caverns",
+      "time": "00:14:20.5660000",
+      "best_segment": "00:00:35.0000000"
+    },
+    {
+      "title": "Cliffside Caves",
+      "time": "00:15:40.5660000",
+      "best_segment": "00:01:20.0000000"
+    },
+    {
+      "title": "Observatory",
+      "time": "00:16:38.5660000",
+      "best_segment": "00:00:58.0000000"
+    },
+    {
+      "title": "Ramparts",
+      "time": "00:17:47.5660000",
+      "best_segment": "00:01:09.0000000"
+    },
+    {
+      "title": "Ghost Parapets",
+      "time": "00:19:05.5660000",
+      "best_segment": "00:01:18.0000000"
+    },
+    {
+      "title": "Tower",
+      "time": "00:19:27.5660000",
+      "best_segment": "00:00:22.0000000"
+    },
+    {
+      "title": "Store Room",
+      "time": "00:19:49.5660000",
+      "best_segment": "00:00:22.0000000"
+    },
+    {
+      "title": "Moon Temple",
+      "time": "00:20:35.5660000",
+      "best_segment": "00:00:46.0000000"
+    },
+    {
+      "title": "Knight Hall",
+      "time": "00:21:05.5660000",
+      "best_segment": "00:00:30.0000000"
+    },
+    {
+      "title": "Archive",
+      "time": "00:21:43.5660000",
+      "best_segment": "00:00:38.0000000"
+    },
+    {
+      "title": "Mezzanine",
+      "time": "00:22:15.5660000",
+      "best_segment": "00:00:32.0000000"
+    },
+    {
+      "title": "Library",
+      "time": "00:23:07.5660000",
+      "best_segment": "00:00:52.0000000"
+    },
+    {
+      "title": "Courtyard",
+      "time": "00:23:55.5660000",
+      "best_segment": "00:00:48.0000000"
+    },
+    {
+      "title": "Vacant Lot",
+      "time": "00:24:12.5660000",
+      "best_segment": "00:00:17.0000000"
+    },
+    {
+      "title": "Park",
+      "time": "00:24:47.5660000",
+      "best_segment": "00:00:35.0000000"
+    },
+    {
+      "title": "Landfill",
+      "time": "00:25:10.5660000",
+      "best_segment": "00:00:23.0000000"
+    },
+    {
+      "title": "Development",
+      "time": "00:25:22.5660000",
+      "best_segment": "00:00:12.0000000"
+    },
+    {
+      "title": "Construction Site",
+      "time": "00:25:33.5660000",
+      "best_segment": "00:00:11.0000000"
+    },
+    {
+      "title": "Apartments",
+      "time": "00:26:01.5660000",
+      "best_segment": "00:00:28.0000000"
+    },
+    {
+      "title": "Abandoned Carpark",
+      "time": "00:26:22.5660000",
+      "best_segment": "00:00:21.0000000"
+    },
+    {
+      "title": "Warehouse",
+      "time": "00:26:52.5660000",
+      "best_segment": "00:00:30.0000000"
+    },
+    {
+      "title": "Forgotten Tunnel",
+      "time": "00:27:49.5660000",
+      "best_segment": "00:00:57.0000000"
+    },
+    {
+      "title": "Basement",
+      "time": "00:28:27.5660000",
+      "best_segment": "00:00:38.0000000"
+    },
+    {
+      "title": "Scaffolding",
+      "time": "00:29:21.5660000",
+      "best_segment": "00:00:54.0000000"
+    },
+    {
+      "title": "Rooftops",
+      "time": "00:29:57.5660000",
+      "best_segment": "00:00:36.0000000"
+    },
+    {
+      "title": "Clocktower",
+      "time": "00:31:35.5660000",
+      "best_segment": "00:01:38.0000000"
+    },
+    {
+      "title": "Concrete Temple",
+      "time": "00:33:12.5660000",
+      "best_segment": "00:01:37.0000000"
+    },
+    {
+      "title": "Alleyway",
+      "time": "00:33:36.5660000",
+      "best_segment": "00:00:24.0000000"
+    },
+    {
+      "title": "Hideout",
+      "time": "00:35:15.5660000",
+      "best_segment": "00:01:39.0000000"
+    },
+    {
+      "title": "Control",
+      "time": "00:35:41.5660000",
+      "best_segment": "00:00:26.0000000"
+    },
+    {
+      "title": "Vats",
+      "time": "00:36:16.5660000",
+      "best_segment": "00:00:35.0000000"
+    },
+    {
+      "title": "Ferrofluid",
+      "time": "00:36:39.5660000",
+      "best_segment": "00:00:23.0000000"
+    },
+    {
+      "title": "Server Room",
+      "time": "00:36:56.5660000",
+      "best_segment": "00:00:17.0000000"
+    },
+    {
+      "title": "Titan",
+      "time": "00:37:14.5660000",
+      "best_segment": "00:00:18.0000000"
+    },
+    {
+      "title": "Security",
+      "time": "00:37:50.5660000",
+      "best_segment": "00:00:36.0000000"
+    },
+    {
+      "title": "Research",
+      "time": "00:38:38.5660000",
+      "best_segment": "00:00:48.0000000"
+    },
+    {
+      "title": "Satellite Debris",
+      "time": "00:39:11.5660000",
+      "best_segment": "00:00:33.0000000"
+    },
+    {
+      "title": "Wiring",
+      "time": "00:39:43.5660000",
+      "best_segment": "00:00:32.0000000"
+    },
+    {
+      "title": "Backup Shift",
+      "time": "00:41:09.5660000",
+      "best_segment": "00:01:26.0000000"
+    },
+    {
+      "title": "Containment",
+      "time": "00:41:45.5660000",
+      "best_segment": "00:00:36.0000000"
+    },
+    {
+      "title": "Power Room",
+      "time": "00:42:18.5660000",
+      "best_segment": "00:00:33.0000000"
+    },
+    {
+      "title": "Access",
+      "time": "00:42:55.5660000",
+      "best_segment": "00:00:37.0000000"
+    },
+    {
+      "title": "Core Temple",
+      "time": "00:44:50.5660000",
+      "best_segment": "00:01:55.0000000"
+    },
+    {
+      "title": "Abyss",
+      "time": "00:45:28.5660000",
+      "best_segment": "00:00:38.0000000"
+    },
+    {
+      "title": "Dome",
+      "time": "00:46:23.5660000",
+      "best_segment": "00:00:55.0000000"
+    },
+    {
+      "title": "Kilo Difficult",
+      "time": "00:47:57.5660000",
+      "best_segment": "00:01:34.0000000"
+    },
+    {
+      "title": "Giga Difficult",
+      "time": "00:50:02.5660000",
+      "best_segment": "00:02:05.0000000"
+    },
+    {
+      "title": "Mega Difficult",
+      "time": "00:50:22.5660000",
+      "best_segment": "00:00:20.0000000"
+    },
+    {
+      "title": "Tera Difficult",
+      "time": "00:51:03.5660000",
+      "best_segment": "00:00:41.0000000"
+    },
+    {
+      "title": "Exa Difficult",
+      "time": "00:51:17.5660000",
+      "best_segment": "00:00:14.0000000"
+    },
+    {
+      "title": "Peta Difficult",
+      "time": "00:52:01.5660000",
+      "best_segment": "00:00:44.0000000"
+    },
+    {
+      "title": "Zetta Difficult",
+      "time": "00:53:42.5660000",
+      "best_segment": "00:01:41.0000000"
+    },
+    {
+      "title": "Yotta Difficult",
+      "time": "00:58:25.5660000",
+      "best_segment": "00:04:43.0000000"
+    }
+  ]
+}
