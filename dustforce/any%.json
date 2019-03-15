@@ -1,456 +1,454 @@
 {
   "title": "Dustforce - Any%",
-  "attempt_count": 21,
+  "attempt_count": 29,
   "splits": [
     {
       "title": "Beginner Tutorial",
-      "time": "00:00:37.5830000",
-      "best_time": "39.687939",
-      "best_segment": "39.687939"
+      "time": "39.537111",
+      "best_time": "37.5830000",
+      "best_segment": "37.5830000"
     },
     {
       "title": "Combat Tutorial",
-      "time": "00:01:09.5830000",
-      "best_time": "1:11.031659",
+      "time": "1:12.623543",
+      "best_time": "1:09.583",
       "best_segment": "29.751562"
     },
     {
       "title": "Advanced Tutorial",
-      "time": "00:02:02.5830000",
+      "time": "1:57.542792",
       "best_time": "1:56.999148",
-      "best_segment": "44.950944"
+      "best_segment": "44.919249"
     },
     {
       "title": "Downhill (Man)",
-      "time": "00:02:34.5830000",
-      "best_time": "2:23.336046",
-      "best_segment": "24.080773"
+      "time": "2:21.321164",
+      "best_time": "2:21.321164",
+      "best_segment": "23.778372"
     },
     {
       "title": "Shaded Grove (Worth)",
-      "time": "00:03:14.5830000",
+      "time": "2:44.215548",
       "best_time": "2:26.071920",
       "best_segment": "2.735874"
     },
     {
       "title": "Firefly Forest (Worth)",
-      "time": "00:03:53.5830000",
+      "time": "3:19.239308",
       "best_time": "3:17.335855",
       "best_segment": "0.991938"
     },
     {
       "title": "Valley (Man)",
-      "time": "00:04:22.5830000",
-      "best_time": "4:04.662600",
+      "time": "3:49.119188",
+      "best_time": "3:49.119188",
       "best_segment": "0.944035"
     },
     {
       "title": "Dahlia (Worth)",
-      "time": "00:04:40.5830000",
-      "best_time": "4:24.440331",
-      "best_segment": "18.574084"
+      "time": "4:05.575174",
+      "best_time": "4:05.575174",
+      "best_segment": "16.455986"
     },
     {
       "title": "Tunnels (Girl)",
-      "time": "00:05:22.5830000",
-      "best_time": "5:05.560024",
-      "best_segment": "40.553924"
+      "time": "4:43.759236",
+      "best_time": "4:43.759236",
+      "best_segment": "38.184062"
     },
     {
       "title": "Ancient Garden (Kid)",
-      "time": "00:05:58.5830000",
-      "best_time": "5:34.719232",
-      "best_segment": "29.159208"
+      "time": "5:10.370083",
+      "best_time": "5:10.370083",
+      "best_segment": "26.610847"
     },
     {
       "title": "Night Temple (Worth)",
-      "time": "00:08:26.5830000",
-      "best_time": "6:32.367769",
-      "best_segment": "57.648537"
+      "time": "6:05.758620",
+      "best_time": "6:05.758620",
+      "best_segment": "55.388537"
     },
     {
       "title": "Summit (Worth)",
-      "time": "00:09:07.5830000",
-      "best_time": "7:12.919276",
-      "best_segment": "39.974938"
+      "time": "6:44.878408",
+      "best_time": "6:44.878408",
+      "best_segment": "39.119788"
     },
     {
       "title": "Ascent (Worth)",
-      "time": "00:09:49.5830000",
-      "best_time": "8:09.240988",
-      "best_segment": "42.079192"
+      "time": "7:30.630227",
+      "best_time": "7:30.630227",
+      "best_segment": "40.010829"
     },
     {
       "title": "Grass Cave (Kid)",
-      "time": "00:10:13.5830000",
-      "best_time": "8:35.591556",
-      "best_segment": "23.808437"
+      "time": "7:53.154196",
+      "best_time": "7:53.154196",
+      "best_segment": "21.075928"
     },
     {
       "title": "Wild Den (Worth)",
-      "time": "00:10:43.5830000",
-      "best_time": "9:10.807134",
-      "best_segment": "27.719468"
+      "time": "8:20.766859",
+      "best_time": "8:20.766859",
+      "best_segment": "21.863595"
     },
     {
       "title": "Ruins (Worth)",
-      "time": "00:11:54.5830000",
-      "best_time": "9:54.159851",
-      "best_segment": "0.194035"
+      "time": "9:06.430512",
+      "best_time": "9:06.430512"
     },
     {
       "title": "Overgrown Temple (Girl)",
-      "time": "00:12:30.5830000",
-      "best_time": "10:36.335907",
+      "time": "9:45.790097",
+      "best_time": "9:45.790097",
       "best_segment": "36.479994"
     },
     {
       "title": "Fields (Girl)",
-      "time": "00:12:58.5830000",
-      "best_time": "11:04.089738",
+      "time": "10:14.990584",
+      "best_time": "10:14.990584",
       "best_segment": "26.712250"
     },
     {
       "title": "Dusk Run (Man)",
-      "time": "00:13:33.5830000",
-      "best_time": "11:05.647088",
-      "best_segment": "1.557350"
+      "time": "10:52.477618",
+      "best_time": "10:52.477618"
     },
     {
       "title": "Atrium (Worth)",
-      "time": "00:13:46.5830000",
-      "best_time": "12:31.681812",
+      "time": "11:07.660778",
+      "best_time": "11:07.660778",
       "best_segment": "13.588627"
     },
     {
       "title": "Secret Passage (Worth)",
-      "time": "00:14:12.5830000",
-      "best_time": "12:57.757978",
-      "best_segment": "25.464427"
+      "time": "11:32.238749",
+      "best_time": "11:32.238749",
+      "best_segment": "24.577971"
     },
     {
       "title": "Alcoves (Worth)",
-      "time": "00:14:41.5830000",
-      "best_time": "13:25.717843",
-      "best_segment": "27.657371"
+      "time": "11:59.061984",
+      "best_time": "11:59.061984",
+      "best_segment": "26.823235"
     },
     {
       "title": "Caverns (Worth)",
-      "time": "15:25.176189",
-      "best_time": "14:23.191017",
-      "best_segment": "31.216452"
+      "time": "12:31.165366",
+      "best_time": "12:31.165366",
+      "best_segment": "29.832484"
     },
     {
       "title": "Cliffside Caves (Worth)",
-      "time": "16:43.397725",
-      "best_time": "15:42.273488",
-      "best_segment": "1:13.249336"
+      "time": "13:49.789215",
+      "best_time": "13:49.789215",
+      "best_segment": "1:12.170974"
     },
     {
       "title": "Observatory (Worth)",
-      "time": "17:13.388980",
-      "best_time": "16:38.958375",
+      "time": "14:21.893128",
+      "best_time": "14:21.893128",
       "best_segment": "29.991255"
     },
     {
       "title": "Ramparts (Worth)",
-      "time": "18:19.100528",
-      "best_time": "17:45.600351",
-      "best_segment": "1:05.711548"
+      "time": "15:28.629177",
+      "best_time": "15:28.629177",
+      "best_segment": "1:01.877763"
     },
     {
       "title": "Ghost Parapets (Kid)",
-      "time": "19:28.116862",
-      "best_time": "19:07.559939",
-      "best_segment": "1:05.215246"
+      "time": "16:41.380929",
+      "best_time": "16:41.380929",
+      "best_segment": "58.954461"
     },
     {
       "title": "Tower (Worth)",
-      "time": "19:45.812667",
-      "best_time": "19:29.903442",
+      "time": "17:20.672496",
+      "best_time": "17:20.672496",
       "best_segment": "15.542713"
     },
     {
       "title": "Store Room (Worth)",
-      "time": "20:13.747326",
-      "best_time": "19:52.167756",
-      "best_segment": "21.335938"
+      "time": "17:40.704665",
+      "best_time": "17:40.704665",
+      "best_segment": "20.032169"
     },
     {
       "title": "Moon Temple (Man)",
-      "time": "20:57.420464",
-      "best_time": "20:37.527697",
+      "time": "18:35.348832",
+      "best_time": "18:35.348832",
       "best_segment": "43.673138"
     },
     {
       "title": "Knight Hall (Girl)",
-      "time": "21:26.527392",
-      "best_time": "21:07.992195",
+      "time": "19:04.471224",
+      "best_time": "19:04.471224",
       "best_segment": "29.106928"
     },
     {
       "title": "Archive (Man)",
-      "time": "22:03.727431",
-      "best_time": "21:45.751666",
+      "time": "19:43.332774",
+      "best_time": "19:43.332774",
       "best_segment": "37.200039"
     },
     {
       "title": "Mezzanine (Worth)",
-      "time": "22:38.035988",
-      "best_time": "22:18.192248",
+      "time": "20:16.212629",
+      "best_time": "20:16.212629",
       "best_segment": "32.440582"
     },
     {
       "title": "Library (Worth)",
-      "time": "23:31.004633",
-      "best_time": "23:09.256189",
-      "best_segment": "51.063942"
+      "time": "21:04.956900",
+      "best_time": "21:04.956900",
+      "best_segment": "48.744271"
     },
     {
       "title": "Courtyard (Worth)",
-      "time": "24:19.132981",
-      "best_time": "23:58.199761",
-      "best_segment": "47.175782"
+      "time": "21:49.548956",
+      "best_time": "21:49.548956",
+      "best_segment": "44.592056"
     },
     {
       "title": "Vacant Lot (Worth)",
-      "time": "24:29.964834",
-      "best_time": "24:14.824387",
-      "best_segment": "10.480501"
+      "time": "21:59.596469",
+      "best_time": "21:59.596469",
+      "best_segment": "9.695848"
     },
     {
       "title": "Park (Man)",
-      "time": "25:10.012399",
-      "best_time": "24:50.273521",
-      "best_segment": "33.384099"
+      "time": "22:31.021201",
+      "best_time": "22:31.021201",
+      "best_segment": "31.352970"
     },
     {
       "title": "Landfill (Man)",
-      "time": "25:31.469073",
-      "best_time": "25:12.480122",
-      "best_segment": "20.775968"
+      "time": "23:07.276357",
+      "best_time": "23:07.276357",
+      "best_segment": "19.767782"
     },
     {
       "title": "Development (Worth)",
-      "time": "25:44.612881",
-      "best_time": "25:24.943723",
-      "best_segment": "12.463601"
+      "time": "23:18.889248",
+      "best_time": "23:18.889248",
+      "best_segment": "11.612891"
     },
     {
       "title": "Construction Site (Man)",
-      "time": "25:52.380839",
-      "best_time": "25:35.928597",
-      "best_segment": "7.424446"
+      "time": "23:25.780982",
+      "best_time": "23:25.780982",
+      "best_segment": "6.891734"
     },
     {
       "title": "Apartments (Girl)",
-      "time": "26:14.413839",
-      "best_time": "26:03.752557",
-      "best_segment": "22.033000"
+      "time": "23:45.340813",
+      "best_time": "23:45.340813",
+      "best_segment": "19.256132"
     },
     {
       "title": "Abandoned Carpark (Worth)",
-      "time": "26:34.661453",
-      "best_time": "26:22.576508",
-      "best_segment": "18.047441"
+      "time": "24:02.470392",
+      "best_time": "24:02.470392",
+      "best_segment": "16.192301"
     },
     {
       "title": "Warehouse (Worth)",
-      "time": "27:02.997688",
-      "best_time": "26:54.192521",
-      "best_segment": "28.048700"
+      "time": "24:29.164594",
+      "best_time": "24:29.164594",
+      "best_segment": "26.285523"
     },
     {
       "title": "Forgotten Tunnel (Worth)",
-      "time": "27:51.245438",
-      "best_time": "27:51.245438",
+      "time": "25:15.732704",
+      "best_time": "25:15.732704",
       "best_segment": "45.767494"
     },
     {
       "title": "Basement (Man)",
-      "time": "28:35.413761",
-      "best_time": "28:30.400427",
-      "best_segment": "38.893637"
+      "time": "25:50.155874",
+      "best_time": "25:50.155874",
+      "best_segment": "33.863568"
     },
     {
       "title": "Scaffolding (Man)",
-      "time": "29:36.943254",
-      "best_time": "29:23.360119",
-      "best_segment": "52.959692"
+      "time": "26:34.304580",
+      "best_time": "26:34.304580",
+      "best_segment": "44.148706"
     },
     {
       "title": "Rooftops (Worth)",
-      "time": "30:14.869938",
-      "best_time": "30:00.536337",
-      "best_segment": "36.934384"
+      "time": "27:08.523665",
+      "best_time": "27:08.523665",
+      "best_segment": "34.219085"
     },
     {
       "title": "Clocktower (Girl)",
-      "time": "30:54.653665",
-      "best_time": "30:54.653665",
-      "best_segment": "31.945670"
+      "time": "29:10.573409",
+      "best_time": "29:10.573409",
+      "best_segment": "29.360571"
     },
     {
       "title": "Concrete Temple (Kid)",
-      "time": "32:27.613099",
-      "best_time": "32:27.613099",
-      "best_segment": "1:32.959434"
+      "time": "30:30.854747",
+      "best_time": "30:30.854747",
+      "best_segment": "1:20.281338"
     },
     {
       "title": "Alleyway (Worth)",
-      "time": "32:56.549923",
-      "best_time": "32:56.549923",
-      "best_segment": "24.631238"
+      "time": "30:55.787468",
+      "best_time": "30:55.787468",
+      "best_segment": "23.263782"
     },
     {
       "title": "Hideout (Man)",
-      "time": "34:33.549539",
-      "best_time": "34:33.549539",
-      "best_segment": "1:04.375400"
+      "time": "32:05.155439",
+      "best_time": "32:05.155439",
+      "best_segment": "56.383916"
     },
     {
       "title": "Control (Worth)",
-      "time": "35:01.109187",
-      "best_time": "35:01.109187",
-      "best_segment": "26.337389"
+      "time": "32:29.455049",
+      "best_time": "32:29.455049",
+      "best_segment": "24.299610"
     },
     {
       "title": "Vats (Girl)",
-      "time": "35:43.309624",
-      "best_time": "35:43.309624",
+      "time": "33:07.671206",
+      "best_time": "33:07.671206",
       "best_segment": "34.482278"
     },
     {
       "title": "Ferrofluid (Man)",
-      "time": "36:04.610575",
-      "best_time": "36:04.610575",
-      "best_segment": "17.344237"
+      "time": "33:24.715335",
+      "best_time": "33:24.715335",
+      "best_segment": "17.044129"
     },
     {
       "title": "Server Room (Girl)",
-      "time": "36:28.453264",
-      "best_time": "36:28.453264",
-      "best_segment": "14.257348"
+      "time": "33:38.899038",
+      "best_time": "33:38.899038",
+      "best_segment": "14.021674"
     },
     {
       "title": "Titan (Man)",
-      "time": "36:48.576161",
-      "best_time": "36:48.576161",
-      "best_segment": "18.921030"
+      "time": "33:56.587974",
+      "best_time": "33:56.587974",
+      "best_segment": "16.703335"
     },
     {
       "title": "Security (Man)",
-      "time": "37:25.252952",
-      "best_time": "37:25.252952",
-      "best_segment": "36.623466"
+      "time": "34:32.321764",
+      "best_time": "34:32.321764",
+      "best_segment": "35.733790"
     },
     {
       "title": "Research (Worth)",
-      "time": "38:07.596874",
-      "best_time": "38:07.596874",
+      "time": "35:16.124383",
+      "best_time": "35:16.124383",
       "best_segment": "42.343922"
     },
     {
       "title": "Satellite Debris (Worth)",
-      "time": "38:36.094541",
-      "best_time": "38:36.094541",
-      "best_segment": "28.497667"
+      "time": "35:43.640985",
+      "best_time": "35:43.640985",
+      "best_segment": "27.516602"
     },
     {
       "title": "Wiring (Worth)",
-      "time": "39:08.030067",
-      "best_time": "39:08.030067",
-      "best_segment": "31.935526"
+      "time": "36:14.605636",
+      "best_time": "36:14.605636",
+      "best_segment": "30.432367"
     },
     {
       "title": "Backup Shift (Worth)",
-      "time": "40:10.997559",
-      "best_time": "40:10.997559",
-      "best_segment": "1:02.967492"
+      "time": "38:12.837864",
+      "best_time": "38:12.837864",
+      "best_segment": "1:01.847304"
     },
     {
       "title": "Containment (Worth)",
-      "time": "40:49.682137",
-      "best_time": "40:49.682137",
-      "best_segment": "30.742891"
+      "time": "38:40.412015",
+      "best_time": "38:40.412015",
+      "best_segment": "27.574151"
     },
     {
       "title": "Power Room (Worth)",
-      "time": "41:20.421323",
-      "best_time": "41:20.421323",
-      "best_segment": "26.175466"
+      "time": "39:02.941429",
+      "best_time": "39:02.941429",
+      "best_segment": "22.529414"
     },
     {
       "title": "Access (Worth)",
-      "time": "41:50.365295",
-      "best_time": "41:50.365295",
-      "best_segment": "29.943972"
+      "time": "39:34.889057",
+      "best_time": "39:34.889057",
+      "best_segment": "29.262582"
     },
     {
       "title": "Core Temple (Man)",
-      "time": "43:17.743702",
-      "best_time": "43:17.743702",
-      "best_segment": "1:22.399162"
+      "time": "40:34.108555",
+      "best_time": "40:34.108555",
+      "best_segment": "59.219498"
     },
     {
       "title": "Abyss (Kid)",
-      "time": "44:04.532750",
-      "best_time": "44:04.532750",
-      "best_segment": "38.120213"
+      "time": "41:07.454444",
+      "best_time": "41:07.454444",
+      "best_segment": "33.345889"
     },
     {
       "title": "Dome (Girl)",
-      "time": "44:50.828451",
-      "best_time": "44:50.828451",
-      "best_segment": "42.663993"
+      "time": "42:00.476102",
+      "best_time": "42:00.476102",
+      "best_segment": "37.166516"
     },
     {
       "title": "Kilo (Worth)",
-      "time": "46:05.981039",
-      "best_time": "46:05.981039",
-      "best_segment": "1:15.152588"
+      "time": "43:01.388546",
+      "best_time": "43:01.388546",
+      "best_segment": "50.391987"
     },
     {
       "title": "Giga (Kid)",
-      "time": "47:05.893889",
-      "best_time": "47:05.893889",
-      "best_segment": "59.912850"
+      "time": "43:50.155855",
+      "best_time": "43:50.155855",
+      "best_segment": "39.661913"
     },
     {
       "title": "Mega (Worth)",
-      "time": "47:33.580965",
-      "best_time": "47:33.580965",
-      "best_segment": "20.000000"
+      "time": "43:58.288241",
+      "best_time": "43:58.288241",
+      "best_segment": "7.688740"
     },
     {
       "title": "Tera (Kid)",
-      "time": "47:52.558384",
-      "best_time": "47:52.558384",
-      "best_segment": "18.977419"
+      "time": "44:18.924260",
+      "best_time": "44:18.924260",
+      "best_segment": "14.551570"
     },
     {
       "title": "Exa (Worth)",
-      "time": "48:03.332115",
-      "best_time": "48:03.332115",
-      "best_segment": "10.773731"
+      "time": "44:28.132151",
+      "best_time": "44:28.132151",
+      "best_segment": "8.519902"
     },
     {
       "title": "Peta (Worth)",
-      "time": "48:53.245024",
-      "best_time": "48:53.245024",
-      "best_segment": "44.000000"
+      "time": "45:02.001294",
+      "best_time": "45:02.001294",
+      "best_segment": "31.995493"
     },
     {
       "title": "Zetta (Man)",
-      "time": "50:11.293389",
-      "best_time": "50:11.293389",
-      "best_segment": "1:18.048365"
+      "time": "46:11.716067",
+      "best_time": "46:11.716067",
+      "best_segment": "1:09.714773"
     },
     {
       "title": "Yotta (Man)",
-      "time": "54:58.635744",
-      "best_time": "54:58.635744",
-      "best_segment": "4:43.000000"
+      "time": "49:51.844129",
+      "best_time": "49:51.844129",
+      "best_segment": "2:59.511139"
     }
   ],
   "width": 614,
