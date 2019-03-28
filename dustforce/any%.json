@@ -1,17 +1,17 @@
 {
   "title": "Dustforce - Any%",
-  "attempt_count": 29,
+  "attempt_count": 31,
   "splits": [
     {
       "title": "Beginner Tutorial",
       "time": "39.537111",
-      "best_time": "37.5830000",
-      "best_segment": "37.5830000"
+      "best_time": "37.583000",
+      "best_segment": "37.583000"
     },
     {
       "title": "Combat Tutorial",
       "time": "1:12.623543",
-      "best_time": "1:09.583",
+      "best_time": "1:09.583000",
       "best_segment": "29.751562"
     },
     {
@@ -39,7 +39,7 @@
       "best_segment": "0.991938"
     },
     {
-      "title": "Valley (Man)",
+      "title": "Valley (Girl)",
       "time": "3:49.119188",
       "best_time": "3:49.119188",
       "best_segment": "0.944035"
@@ -69,7 +69,7 @@
       "best_segment": "55.388537"
     },
     {
-      "title": "Summit (Worth)",
+      "title": "Summit (Man/Girl)",
       "time": "6:44.878408",
       "best_time": "6:44.878408",
       "best_segment": "39.119788"
@@ -95,7 +95,8 @@
     {
       "title": "Ruins (Worth)",
       "time": "9:06.430512",
-      "best_time": "9:06.430512"
+      "best_time": "9:06.430512",
+      "best_segment": "45.663653"
     },
     {
       "title": "Overgrown Temple (Girl)",
@@ -112,7 +113,8 @@
     {
       "title": "Dusk Run (Man)",
       "time": "10:52.477618",
-      "best_time": "10:52.477618"
+      "best_time": "10:52.477618",
+      "best_segment": "37.487034"
     },
     {
       "title": "Atrium (Worth)",
